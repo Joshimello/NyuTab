@@ -13,8 +13,8 @@ so install the extension unpacked
 see release tab for unpacked zip
 
 ## Used
-frontend - svelte with vite
-color palette api - colormind.io
+frontend - svelte with vite  
+color palette api - colormind.io  
 random japanese text - google translate
 
 ## Todo
