@@ -16,6 +16,25 @@ see release tab for unpacked zip
 frontend - svelte with vite  
 color palette api - colormind.io  
 random japanese text - google translate
+themes - microsoft edge
+
+## Themes
+```javascript
+'MorningFog':     ['#AAB0B6', '#DDDFE2'],
+'IcyMint':        ['#84B6C0', '#CAE0E4'],
+'IslandGetaway':  ['#47A5AB', '#73D1D3'],
+'CoolBreeze':     ['#699DC0', '#A7C6DB'],
+'SilkyPink':      ['#D5B2AC', '#F0E3E1'],
+'BubbleGum':      ['#F46FA1', '#F9BCD3'],
+'SunnyDay':       ['#D3AD3C', '#EDE1BA'],
+'MangoParadise':  ['#E48E30', '#F1CBA0'],
+'DarkStormy':     ['#38393C', '#56585D'],
+'CoolStale':      ['#2B3441', '#46546A'],
+'MoonlightGlow':  ['#0F2B48', '#1C4C7F'],
+'JuicyPlum':      ['#452372', '#6C36B1'],
+'SpicyRed':       ['#6A0D12', '#A2131D'],
+'MysticalForest': ['#143E1D', '#20612D']
+```
 
 ## Todo
 - [x] themes
