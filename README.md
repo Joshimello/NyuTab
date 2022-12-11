@@ -18,7 +18,7 @@ color palette api - colormind.io
 random japanese text - google translate
 
 ## Todo
-- [ ] themes
+- [V] themes
 - [ ] custom text
-- [ ] organise code
+- [V] organise code
 - [ ] ~~waifu wallpaper~~
