@@ -15,8 +15,8 @@ see release tab for unpacked zip
 ## Used
 frontend - svelte with vite  
 color palette api - colormind.io  
-random japanese text - google translate
-themes - microsoft edge
+random japanese text - google translate  
+themes - microsoft edge  
 
 ## Themes
 ```javascript
